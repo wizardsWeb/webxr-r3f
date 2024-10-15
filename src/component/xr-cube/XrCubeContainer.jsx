@@ -13,6 +13,7 @@ const XrCubeContainer = () => {
           <XrCube />
         </XR>
       </Canvas>
+      
     </>
   )
 }
